@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "versionSystem": "4.6.5",
+  "versionSystem": "4.7.8",
   "nomeEmpresa": "PLW Design",
   "private": true,
   "dependencies": {
@@ -47,6 +47,7 @@
     "react-dom": "^17.0.2",
     "react-icons": "^4.4.0",
     "react-input-mask": "^2.0.4",
+    "react-jwt": "^1.2.1",
     "react-modal-image": "^2.5.0",
     "react-number-format": "^4.6.4",
     "react-qr-code": "^2.0.7",
@@ -63,6 +64,7 @@
     "use-debounce": "^7.0.0",
     "use-sound": "^2.0.1",
     "uuid": "^8.3.2",
+    "vcard-parser": "^1.0.0",
     "yup": "^0.32.8"
   },
   "scripts": {
